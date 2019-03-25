@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f0d0c8870d549fe9d65bffc32a176b7, type: 3}
+  m_Name: CommonElementsRecord
+  m_EditorClassIdentifier: 
+  RestrictionObject: {fileID: 6265156939673927624, guid: cdeb03bea73d9874fa892bf978645ee4,
+    type: 3}
+  Camera: {fileID: 8821844757062874006, guid: e53e1bf9392bb2142a01b6881e7fb2c3, type: 3}
+  SpawnInnerRange: 250
+  SpawnOutRange: 255
+  RestrictionH: 2000
+  RestrictionW: 2000
+  EnemySpawnTime: 0.25
+  EnvironmentSpawnTime: 0.5
